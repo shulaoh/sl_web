@@ -14,8 +14,8 @@ user_agent = 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, lik
 headers = { 'User-Agent' : user_agent, 
            'Accept' : 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'}
 
-username = 'yiping.wang@oracle.com'
-password = 'Wyp@1111'
+username = 'test'
+password = 'test'
 
 def testing(self):
     parsePayload()
